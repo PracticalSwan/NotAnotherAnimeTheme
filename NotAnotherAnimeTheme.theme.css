@@ -31,7 +31,7 @@
   /*
     Main Theme Transparency
   */
-  --theme-transparency: rgba(0, 0, 0, 0.8);
+  --theme-transparency: rgba(0, 0, 0, 1.0);
 
   /*
     Home Icon Image
@@ -121,7 +121,7 @@
   /*
     Embed Background Transparency
   */
-  --embed-background-transparency: rgba(0, 0, 0, 1.0);
+  --embed-background-transparency: rgba(0, 0, 0, 0.6);
 
   /*
     Message Hover Buttons
