@@ -121,7 +121,7 @@
   /*
     Embed Background Transparency
   */
-  --embed-background-transparency: rgba(0, 0, 0, 0.6);
+  --embed-background-transparency: rgba(0, 0, 0, 1.0);
 
   /*
     Message Hover Buttons
